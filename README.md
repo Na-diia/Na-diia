@@ -18,4 +18,7 @@
 
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
+<img align="left" alt="Git" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/588ca381-9a06-4076-ac29-9e4e6e631422" />
+
+
 
