@@ -24,7 +24,7 @@
 
 <img align="left" alt="VSCode" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/40f93f1b-016e-4634-a9e7-f6ec945cdbb1" />
 
-<img align="left" alt="Terminal" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/704892b9-2250-4a26-955f-60816ac43968" />
+<img align="left" alt="Terminal" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/6d535fa3-6063-4c08-ac1b-0280edd60636" />
 
  
 
