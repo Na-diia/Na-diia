@@ -16,6 +16,8 @@
 
 <img align="left" alt="React" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/6f99e14b-5acc-4201-b028-b77b498a6371" />
 
+<img align="left" alt="Redux" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/7bda7c03-dbcd-45e2-a1fa-74e50c7ea1a2" />
+
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <img align="left" alt="MongoDB" width="32px" src="https://camo.githubusercontent.com/a05b8bffe29f66d322345093e6184b19f0b1eeb91cfd081ffd9bc80ca50b7eb1/68747470733a2f2f7777772e7376677265706f2e636f6d2f646f776e6c6f61642f3333313438382f6d6f6e676f64622e737667" />
