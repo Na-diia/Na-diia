@@ -20,7 +20,6 @@
 
 <img align="left" alt="WebPack" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/813ae579-729b-44a9-aa8a-883808d43da7" />
 
-
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <img align="left" alt="MongoDB" width="32px" src="https://camo.githubusercontent.com/a05b8bffe29f66d322345093e6184b19f0b1eeb91cfd081ffd9bc80ca50b7eb1/68747470733a2f2f7777772e7376677265706f2e636f6d2f646f776e6c6f61642f3333313438382f6d6f6e676f64622e737667" />
@@ -31,9 +30,10 @@
 
 <img align="left" alt="VSCode" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/40f93f1b-016e-4634-a9e7-f6ec945cdbb1" />
 
-
-
 <img align="left" alt="Terminal" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/6d535fa3-6063-4c08-ac1b-0280edd60636" />
+
+<img align="left" alt="TypeScript" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/711c64f4-4b10-4520-a8b4-d6959c4332ee" />
+
 
  
 
