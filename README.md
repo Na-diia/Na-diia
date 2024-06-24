@@ -34,6 +34,12 @@
 
 <img align="left" alt="TypeScript" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/711c64f4-4b10-4520-a8b4-d6959c4332ee" />
 
+<img align="left" alt="MySQL" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/4fe930e6-c358-4fba-be1f-c3ce85f77321" />
+
+<img align="left" alt="MariaDB" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/c12fc8c3-3d3d-4f7f-b241-d1135884ce94" />
+
+
+
 
  
 
