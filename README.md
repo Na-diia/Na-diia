@@ -1,7 +1,5 @@
-              Hi, I'm Nadiia 👋
 
-         I'm Full-Stack Developer
-   
+<h1>Hello, World!</h1>
 - 🌱 I’m currently learning Vue.js.
 - 📫 How to reach me: nadiiapekaruk@gmail.com.
 
