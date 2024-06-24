@@ -20,5 +20,8 @@
 
 <img align="left" alt="Git" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/588ca381-9a06-4076-ac29-9e4e6e631422" />
 
+<img align="left" alt="Git" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/08aa64f8-dc46-44f1-9dcc-9fdb0131b293" />
+
+
 
 
