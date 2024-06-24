@@ -8,7 +8,7 @@
   <h2>My stack : </h2>
 <img align="left" alt="HTML5" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/d07c28c3-ce50-460b-bd8e-1e110285c818"/>
 
-<img alt="CSS" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/21dcdba7-d360-4096-8c49-419fe10d1173" />
+<img align="left" alt="CSS" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/21dcdba7-d360-4096-8c49-419fe10d1173" />
 
 
 <img align="right" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
