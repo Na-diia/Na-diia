@@ -22,6 +22,9 @@
 
 <img align="left" alt="Git" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/08aa64f8-dc46-44f1-9dcc-9fdb0131b293" />
 
+<img align="left" alt="VSCode" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/40f93f1b-016e-4634-a9e7-f6ec945cdbb1" />
+ 
+
 
 
 
