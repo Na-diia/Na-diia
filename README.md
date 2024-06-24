@@ -11,6 +11,6 @@
 <img align="left" alt="CSS" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/21dcdba7-d360-4096-8c49-419fe10d1173" />
 
 
-<img align="right" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 
