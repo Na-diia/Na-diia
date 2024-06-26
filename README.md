@@ -24,6 +24,9 @@
 
 <img align="left" alt="MongoDB" width="32px" src="https://camo.githubusercontent.com/a05b8bffe29f66d322345093e6184b19f0b1eeb91cfd081ffd9bc80ca50b7eb1/68747470733a2f2f7777772e7376677265706f2e636f6d2f646f776e6c6f61642f3333313438382f6d6f6e676f64622e737667" />
 
+<img align="left" alt="Heroku" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/dee1a9b3-08d0-4b50-b138-fa8b2b9f1616" />
+
+
 <img align="left" alt="Git" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/588ca381-9a06-4076-ac29-9e4e6e631422" />
 
 <img align="left" alt="Git" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/08aa64f8-dc46-44f1-9dcc-9fdb0131b293" />
