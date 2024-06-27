@@ -6,6 +6,7 @@
 
 <p align="center">
 - 🌱 I’m currently learning Vue.js.
+  <br>
 - 📫 How to reach me: nadiiapekaruk@gmail.com.
 </p>
 
