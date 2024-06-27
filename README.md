@@ -19,7 +19,7 @@
 - 📫 How to reach me: <a href="mailto: nadiiapekaruk@gmail.com">nadiiapekaruk@gmail.com</a>
 </p>
 
-# 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 <p align="center">
 <img  alt="npm" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/3676542a-6acb-45a6-9ddb-943e252f6d61" />
 <img  alt="HTML5" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/d07c28c3-ce50-460b-bd8e-1e110285c818"/>
