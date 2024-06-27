@@ -47,4 +47,4 @@
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Na-diia&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+<img src="https://github-readme-stats.vercel.app/api?username=Na-diia&hide=stars&show=prs_merged,prs_merged_percentage" />
