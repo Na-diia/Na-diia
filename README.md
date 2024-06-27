@@ -4,10 +4,11 @@
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
                          <p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
                          
-# About me :
+## ⚡️ A Few Quick Facts :
 <p align="left">
 - 🥇 I'm a passionate, creative and perceptive developer with a hands-on approach to problem solving and an insatiable thirst for knowledge.
-     I am fascinated by everything that can be classified as technology.
+  <br>
+- 🔭 I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. Following best practices early on is the way to go and I'm a huge supporter of it.
   <br>
 - 🌱 I’m currently learning Vue.js.
   <br>
