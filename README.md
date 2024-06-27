@@ -1,5 +1,5 @@
 
-# Hello, World!  <img width="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
+#   <img width="30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
                          <p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
