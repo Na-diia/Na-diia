@@ -7,6 +7,8 @@
 <p align="left">
 - 🌱 I’m currently learning Vue.js.
   <br>
+- 💻 I love writing code and learn anythings about it.
+  <br>
 - 📫 How to reach me: <a href="mailto: nadiiapekaruk@gmail.com">nadiiapekaruk@gmail.com</a>
 </p>
 
