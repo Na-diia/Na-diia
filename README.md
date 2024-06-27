@@ -6,8 +6,8 @@
                          
 # About me :
 <p align="left">
-- 🥇 I'm a passionate, creative and perceptive developer with a hands-on approach to problem solving and an insatiable thirst for knowledge. I am fascinated by anything and 
-      everything that can be classified as technology.
+- 🥇 I'm a passionate, creative and perceptive developer with a hands-on approach to problem solving and an insatiable thirst for knowledge. I am fascinated by everything that can be 
+        classified as technology.
   <br>
 - 🌱 I’m currently learning Vue.js.
   <br>
