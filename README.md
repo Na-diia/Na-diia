@@ -9,6 +9,8 @@
   <br>
 - 💻 I love writing code and learning about it.
   <br>
+- 📖 I am currently reading Clean Code by Robert C. Martin .
+  <br>
 - 📫 How to reach me: <a href="mailto: nadiiapekaruk@gmail.com">nadiiapekaruk@gmail.com</a>
 </p>
 
