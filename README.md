@@ -43,10 +43,10 @@
 <img  alt="MariaDB" width="34px" src="https://github.com/Na-diia/Na-diia/assets/108739131/3850b0fd-b86a-46ad-81a0-b8d3aef19d47" />
 </p>
 
-## 🚀 Quick Stats
+## 🚀 Quick Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px /> 
 <div>
 <img  src="https://github-readme-stats.vercel.app/api?username=Na-diia&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&theme=dark" alt="Nadiia's stats" align="left" width="400px" height="420"/>
-<img align="right" width="400px" height="380px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Na-diia&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Nadiia's stats"/>
+<img align="right" width="380px" height="380px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Na-diia&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Nadiia's stats"/>
 
 </div>
 
