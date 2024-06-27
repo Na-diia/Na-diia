@@ -25,7 +25,7 @@
 <img  alt="WebPack" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/813ae579-729b-44a9-aa8a-883808d43da7" />
 <img  alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img  alt="MongoDB" width="32px" src="https://camo.githubusercontent.com/a05b8bffe29f66d322345093e6184b19f0b1eeb91cfd081ffd9bc80ca50b7eb1/68747470733a2f2f7777772e7376677265706f2e636f6d2f646f776e6c6f61642f3333313438382f6d6f6e676f64622e737667" />
-<img alt="Postman" width="32px" src="https://cloud.tenable.com/mssp/logos/:logo_uuid/logo.png" />
+<img alt="Postman" width="32px" src="https://cloud.tenable.com/mssp/logos/4d90ea2b-1c8b-e7ba-1831-850ceb7efa5d/logo.png" />
 <img alt="Heroku" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/dee1a9b3-08d0-4b50-b138-fa8b2b9f1616" />
 <img  alt="Git" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/588ca381-9a06-4076-ac29-9e4e6e631422" />
 <img  alt="Git" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/08aa64f8-dc46-44f1-9dcc-9fdb0131b293" />
