@@ -47,9 +47,4 @@
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Na-diia" />
- 
-
-
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=Na-diia&hide=contribs,prs" />
