@@ -38,7 +38,9 @@
 <img  alt="MariaDB" width="34px" src="https://github.com/Na-diia/Na-diia/assets/108739131/3850b0fd-b86a-46ad-81a0-b8d3aef19d47" />
 </p>
 
-
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
  
 
 
