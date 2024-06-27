@@ -4,9 +4,10 @@
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
                          <p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
 
-
+<p align="center">
 - 🌱 I’m currently learning Vue.js.
 - 📫 How to reach me: nadiiapekaruk@gmail.com.
+</p>
 
 # 🔧 Technologies & Tools
 <img align="left" alt="npm" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/3676542a-6acb-45a6-9ddb-943e252f6d61" />
