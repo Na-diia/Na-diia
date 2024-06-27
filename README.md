@@ -45,7 +45,7 @@
 
 ## 🚀 Quick Stats
 <div>
-<img  align="center" width="400px" height="380px" src="https://github-readme-stats.vercel.app/apiusername=Nadiia&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&theme=dark" alt="Nadiia's stats"/>
+<img  src="https://github-readme-stats.vercel.app/apiusername=Nadiia&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&theme=dark" alt="Nadiia's stats" align="center" width="400px" height="380px"/>
 <img align="center" width="400px" height="380px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Na-diia&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Nadiia's stats"/>
 
 </div>
