@@ -42,11 +42,11 @@
 
 <img align="left" alt="Terminal" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/6d535fa3-6063-4c08-ac1b-0280edd60636" />
 
-<img align="left" alt="TypeScript" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/711c64f4-4b10-4520-a8b4-d6959c4332ee" />
+<img align="center" alt="TypeScript" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/711c64f4-4b10-4520-a8b4-d6959c4332ee" />
 
-<img align="left" alt="MySQL" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/c12fc8c3-3d3d-4f7f-b241-d1135884ce94" />
+<img align="center" alt="MySQL" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/c12fc8c3-3d3d-4f7f-b241-d1135884ce94" />
 
-<img align="left" alt="MariaDB" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/3850b0fd-b86a-46ad-81a0-b8d3aef19d47" />
+<img align="center" alt="MariaDB" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/3850b0fd-b86a-46ad-81a0-b8d3aef19d47" />
 
 
  
