@@ -48,5 +48,5 @@
 </p>
 
 <p align="center">
-<img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=Na-diia&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&theme=dark" alt="Nadiia's stats"/>
+<img  width="450px" src="https://github-readme-stats.vercel.app/api?username=Na-diia&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&theme=dark" alt="Nadiia's stats"/>
 </p>
