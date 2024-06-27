@@ -44,9 +44,9 @@
 </p>
 
 ## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px />  Quick Stats 
-<div display="flex">
-<img  src="https://github-readme-stats.vercel.app/api?username=Na-diia&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&theme=dark" alt="Nadiia's stats" align="center" width="45%" height="420"/>
-<img align="center" width="45%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Na-diia&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Nadiia's stats"/>
+<div >
+<img  src="https://github-readme-stats.vercel.app/api?username=Na-diia&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&theme=dark" alt="Nadiia's stats" />
+<img   src="https://github-readme-stats.vercel.app/api/top-langs?username=Na-diia&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Nadiia's stats"/>
 
 </div>
 
