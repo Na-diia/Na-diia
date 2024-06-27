@@ -7,7 +7,7 @@
 <p align="center">
 - 🌱 I’m currently learning Vue.js.
   <br>
-- 📫 How to reach me: <a href="malito: nadiiapekaruk@gmail.com">nadiiapekaruk@gmail.com</a>
+- 📫 How to reach me: <a href="malito: nadiiapekaruk@gmail.com">nadiiapekaruk@gmail.com</a> <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p>
 
 # 🔧 Technologies & Tools
