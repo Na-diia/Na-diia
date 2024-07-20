@@ -10,7 +10,7 @@
   <br>
 - 🔭 I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. Following best practices early on is the way to go and I'm a huge supporter of it.
   <br>
-- 🌱 I’m currently learning Vue.js.
+- 🌱 I’m currently learning Next.js, Vue.js.
   <br>
 - 💻 I love writing code and learning about it.
   <br>
