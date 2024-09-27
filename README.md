@@ -29,9 +29,10 @@
 <img  alt="JavaScript" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/5a32260d-bd74-4700-af33-da194ba7a120" />
 <img  alt="React" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/6f99e14b-5acc-4201-b028-b77b498a6371" />
 <img  alt="Redux" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/7bda7c03-dbcd-45e2-a1fa-74e50c7ea1a2" />
+<img alt="Next.js" width="32px" src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" />
 <img  alt="WebPack" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/813ae579-729b-44a9-aa8a-883808d43da7" />
 <img  alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img  alt="MongoDB" width="32px" src="https://commons.wikimedia.org/wiki/File:Mongodb.png#/media/File:Mongodb.png" />
+<img  alt="MongoDB" width="32px" src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" />
 <img alt="Postman" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/2b33c758-d96f-4c3c-b835-86d2b1195e11" />
 <img alt="Heroku" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/dee1a9b3-08d0-4b50-b138-fa8b2b9f1616" />
 <img  alt="Git" width="32px" src="https://github.com/Na-diia/Na-diia/assets/108739131/588ca381-9a06-4076-ac29-9e4e6e631422" />
